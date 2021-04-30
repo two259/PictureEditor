@@ -19,7 +19,7 @@ This app allows users to take a picture using the phone's camera, and edit it.
 
 ### App Walkthough GIF
 
-![App Demo](mobilehw4gi.gif)
+![App Demo](mobilehw5.gif)
 
 ### Notes
 I encountered challenges while building this app such as not having all of the colors change, instead
