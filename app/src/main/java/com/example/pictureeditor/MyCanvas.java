@@ -59,6 +59,10 @@ public class MyCanvas extends View {
         invalidate();
     }
 
+    public void callInvalidate(){
+        invalidate();
+    }
+
     // Sets the color.
     public void setActiveColor(int color){
         if(color == 0){
